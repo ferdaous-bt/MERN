@@ -4,8 +4,6 @@ Projet réalisé par Ferdaous Ben Taleb dans le cadre du cours MERN Stack.
 
 Le projet contient une API REST Express pour gérer des utilisateurs et des articles. Les données sont enregistrées dans MongoDB avec Mongoose.
 
-Le [compte rendu du TP3](./Compte_rendu_TP3_Ferdaous_Ben_Taleb.pdf) est aussi disponible dans ce dépôt.
-
 ## Installation
 
 ```bash
